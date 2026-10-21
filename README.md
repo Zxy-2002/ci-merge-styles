@@ -1,2 +1,2 @@
 # ci-merge-styles
-Experiment 1 status: Developer A version
+Experiment 1 status: Developer A + Developer B resolved
