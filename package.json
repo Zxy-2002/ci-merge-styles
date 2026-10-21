@@ -1,0 +1,9 @@
+{
+  "name": "ci-merge-styles",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p dist && cp README.md dist/README.md",
+    "test": "node test/test.js"
+  }
+}
